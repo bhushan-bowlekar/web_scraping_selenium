@@ -1,0 +1,9 @@
+1.created project environment and kernel, kernel name - web_scraping for that watch campusx scrapy course - video 2.3 and 6.2
+2.We get 2 Excel files because `property_data.csv` stores the main scraped data, while `property_data_checkpoint.csv` saves 
+checkpoints during scraping to prevent data loss and allow us to resume scraping if the code stops unexpectedly.
+3.optimize code - watch 6.5 scrapy course campusx video - notes in Bhushan_practice_233 (for this project did in 7.2.6)
+4.also cleaning - watch 7.2.5 - notes in Bhushan_practice_235
+and for restruturing the code watch 7.2.6 - notes in Bhushan_practice_235
+
+
+
